@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2019 Rafal Rowniak rrowniak.com
+ * Copyright (c) 2020 Rafal Rowniak rrowniak.com
  * 
  * The author hereby grant you a non-exclusive, non-transferable,
  * free of charge right to copy, modify, merge, publish and distribute,
