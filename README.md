@@ -1,5 +1,5 @@
 # l_rr - usefull stuff for embedded
-A bunch of usefull stuff for embedded projects. Although there is no requirements for any particular hardware (in most cases), it has been tested mostly on stm32).
+A bunch of usefull stuff for embedded projects. Although there is no requirements for any particular hardware (in most cases), it has been tested mostly on stm32.
 
 The pack contains several nice implementations that can be taken and adopted to almost any embedded project.
 
@@ -21,9 +21,11 @@ The pack contains several nice implementations that can be taken and adopted to 
 
 ## Notes
 
-* Under development. New modules comes when needed.
+* Under development. New modules come when needed.
 
 * No backward compatibility guaranteed.
+
+* The leading target is the stm32 family.
 
 ## License
 
